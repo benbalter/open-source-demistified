@@ -1,0 +1,30 @@
+title: "Open source demistified"
+description: "From command line to community engagement"
+
+collections:
+  - slides
+
+exclude:
+  - script
+  - ".gitignore"
+  - Gemfile
+  - Gemfile.lock
+  - readme.md
+  - node_modules
+  - ".sass-cache"
+  - "package.json"
+  - src
+  - "bower.json"
+
+highlighter: "pygments"
+excerpt_separator: ""
+
+gems:
+  - jekyll-mentions
+  - jemoji
+
+emoji:
+  src: "images"
+
+sass:
+  style: :compressed
