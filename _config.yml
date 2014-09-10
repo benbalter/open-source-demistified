@@ -4,6 +4,13 @@ description: "From command line to community engagement"
 collections:
   - slides
 
+defaults:
+-
+  scope:
+    type: "slides"
+  values:
+    title: ""
+
 exclude:
   - script
   - ".gitignore"
