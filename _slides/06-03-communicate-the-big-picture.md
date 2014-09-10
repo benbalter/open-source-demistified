@@ -1,5 +1,5 @@
 ---
-title: "Communicate **the bigger picture**"
+title: "Communicate<br /> **the bigger picture**"
 ---
 
 * Open source problems, not solutions
