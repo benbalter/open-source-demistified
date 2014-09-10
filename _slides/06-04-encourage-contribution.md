@@ -1,5 +1,5 @@
 ---
-title: "Encourage **Contributors"
+title: "Encourage **Contributors**"
 ---
 
 * How to contribute

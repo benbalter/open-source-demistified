@@ -1,4 +1,4 @@
 ---
-title: "git on the **web**"
+title: "Git on the **web**"
 octicon: browser
 ---
