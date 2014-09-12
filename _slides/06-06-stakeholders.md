@@ -1,5 +1,5 @@
 ---
-title: "Continuium of **stakeholders**"
+title: "Continuum of **stakeholders**"
 ---
 
 * Non-technical, non-user stakeholders (“the boss”)
